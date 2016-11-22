@@ -1,0 +1,812 @@
+{"frames": [
+
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0000",
+	"frame": {"x":1,"y":2409,"w":322,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":29,"w":322,"h":165},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0001",
+	"frame": {"x":1,"y":2409,"w":322,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":29,"w":322,"h":165},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0002",
+	"frame": {"x":1,"y":2409,"w":322,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":29,"w":322,"h":165},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0003",
+	"frame": {"x":1,"y":2409,"w":322,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":29,"w":322,"h":165},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0004",
+	"frame": {"x":1297,"y":2118,"w":322,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":28,"w":322,"h":166},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0005",
+	"frame": {"x":1297,"y":2286,"w":322,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":28,"w":322,"h":166},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0006",
+	"frame": {"x":325,"y":2406,"w":322,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":27,"w":322,"h":167},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0007",
+	"frame": {"x":649,"y":2406,"w":322,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":27,"w":322,"h":167},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0008",
+	"frame": {"x":973,"y":2406,"w":322,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":27,"w":322,"h":167},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0009",
+	"frame": {"x":973,"y":2406,"w":322,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":27,"w":322,"h":167},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0010",
+	"frame": {"x":973,"y":2406,"w":322,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":27,"w":322,"h":167},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0011",
+	"frame": {"x":973,"y":2406,"w":322,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":27,"w":322,"h":167},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0012",
+	"frame": {"x":1621,"y":1,"w":322,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":28,"w":322,"h":166},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0013",
+	"frame": {"x":1297,"y":1611,"w":322,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":27,"w":322,"h":167},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0014",
+	"frame": {"x":1297,"y":1439,"w":322,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":24,"w":322,"h":170},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0015",
+	"frame": {"x":1297,"y":1089,"w":322,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":21,"w":322,"h":173},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0016",
+	"frame": {"x":1297,"y":733,"w":322,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":18,"w":322,"h":176},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0017",
+	"frame": {"x":1297,"y":733,"w":322,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":18,"w":322,"h":176},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0018",
+	"frame": {"x":1297,"y":186,"w":322,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":13,"w":322,"h":181},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0019",
+	"frame": {"x":1297,"y":186,"w":322,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":13,"w":322,"h":181},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0020",
+	"frame": {"x":1,"y":559,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0021",
+	"frame": {"x":1,"y":559,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0022",
+	"frame": {"x":1,"y":744,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0023",
+	"frame": {"x":1,"y":744,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0024",
+	"frame": {"x":1,"y":929,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0025",
+	"frame": {"x":1,"y":929,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0026",
+	"frame": {"x":1,"y":1114,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0027",
+	"frame": {"x":1,"y":1299,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0028",
+	"frame": {"x":1,"y":1484,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0029",
+	"frame": {"x":1,"y":1669,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0030",
+	"frame": {"x":1,"y":1854,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0031",
+	"frame": {"x":1,"y":2039,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0032",
+	"frame": {"x":1,"y":2224,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0033",
+	"frame": {"x":325,"y":1,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0034",
+	"frame": {"x":325,"y":186,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0035",
+	"frame": {"x":325,"y":371,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0036",
+	"frame": {"x":325,"y":556,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0037",
+	"frame": {"x":325,"y":741,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0038",
+	"frame": {"x":325,"y":926,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0039",
+	"frame": {"x":325,"y":1111,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0040",
+	"frame": {"x":325,"y":1296,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0041",
+	"frame": {"x":325,"y":1481,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0042",
+	"frame": {"x":325,"y":1666,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0043",
+	"frame": {"x":325,"y":1851,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0044",
+	"frame": {"x":325,"y":2036,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0045",
+	"frame": {"x":325,"y":2221,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0046",
+	"frame": {"x":649,"y":1,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0047",
+	"frame": {"x":649,"y":186,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0048",
+	"frame": {"x":649,"y":371,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0049",
+	"frame": {"x":649,"y":556,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0050",
+	"frame": {"x":649,"y":741,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0051",
+	"frame": {"x":649,"y":926,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0052",
+	"frame": {"x":649,"y":1111,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0053",
+	"frame": {"x":649,"y":1296,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0054",
+	"frame": {"x":649,"y":1481,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0055",
+	"frame": {"x":649,"y":1666,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0056",
+	"frame": {"x":649,"y":1851,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0057",
+	"frame": {"x":1,"y":1,"w":322,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":184},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0058",
+	"frame": {"x":649,"y":2036,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0059",
+	"frame": {"x":1,"y":187,"w":322,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":184},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0060",
+	"frame": {"x":649,"y":2221,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0061",
+	"frame": {"x":1,"y":373,"w":322,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":184},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0062",
+	"frame": {"x":973,"y":1,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0063",
+	"frame": {"x":973,"y":186,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0064",
+	"frame": {"x":973,"y":371,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0065",
+	"frame": {"x":973,"y":556,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0066",
+	"frame": {"x":973,"y":741,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0067",
+	"frame": {"x":973,"y":926,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0068",
+	"frame": {"x":973,"y":1111,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0069",
+	"frame": {"x":973,"y":1296,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0070",
+	"frame": {"x":973,"y":1481,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0071",
+	"frame": {"x":973,"y":1666,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0072",
+	"frame": {"x":973,"y":1851,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0073",
+	"frame": {"x":973,"y":2036,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0074",
+	"frame": {"x":973,"y":2221,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0075",
+	"frame": {"x":1297,"y":1,"w":322,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":11,"w":322,"h":183},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0076",
+	"frame": {"x":1297,"y":369,"w":322,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":13,"w":322,"h":181},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0077",
+	"frame": {"x":1297,"y":552,"w":322,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":15,"w":322,"h":179},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0078",
+	"frame": {"x":1297,"y":911,"w":322,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":18,"w":322,"h":176},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0079",
+	"frame": {"x":1297,"y":1264,"w":322,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":21,"w":322,"h":173},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0080",
+	"frame": {"x":1297,"y":1264,"w":322,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":21,"w":322,"h":173},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0081",
+	"frame": {"x":1297,"y":1780,"w":322,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":27,"w":322,"h":167},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0082",
+	"frame": {"x":1297,"y":1949,"w":322,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":27,"w":322,"h":167},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0083",
+	"frame": {"x":1621,"y":169,"w":322,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":29,"w":322,"h":165},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0084",
+	"frame": {"x":1621,"y":336,"w":322,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":29,"w":322,"h":165},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0085",
+	"frame": {"x":1621,"y":503,"w":322,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":29,"w":322,"h":165},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0086",
+	"frame": {"x":1621,"y":670,"w":322,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":29,"w":322,"h":165},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0087",
+	"frame": {"x":1621,"y":837,"w":322,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":29,"w":322,"h":165},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0088",
+	"frame": {"x":1621,"y":1004,"w":322,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":29,"w":322,"h":165},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0089",
+	"frame": {"x":1621,"y":1171,"w":322,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":29,"w":322,"h":165},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0090",
+	"frame": {"x":1621,"y":1338,"w":322,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":29,"w":322,"h":165},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0091",
+	"frame": {"x":1621,"y":1338,"w":322,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":29,"w":322,"h":165},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0092",
+	"frame": {"x":1621,"y":1338,"w":322,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":29,"w":322,"h":165},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0093",
+	"frame": {"x":1621,"y":1505,"w":322,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":29,"w":322,"h":165},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0094",
+	"frame": {"x":1621,"y":1672,"w":322,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":29,"w":322,"h":165},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0095",
+	"frame": {"x":1621,"y":1839,"w":322,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":29,"w":322,"h":165},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0096",
+	"frame": {"x":1621,"y":2006,"w":322,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":29,"w":322,"h":165},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0097",
+	"frame": {"x":1621,"y":2173,"w":322,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":29,"w":322,"h":165},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0098",
+	"frame": {"x":1621,"y":2340,"w":322,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":29,"w":322,"h":165},
+	"sourceSize": {"w":358,"h":231}
+},
+{
+	"filename": "EW_AnimalGame_elephants_adult+baby_v02_SM/scaled to 67% to fit smaller 1024 px stage_0099",
+	"frame": {"x":1,"y":2409,"w":322,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":29,"w":322,"h":165},
+	"sourceSize": {"w":358,"h":231}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "adultbaby_elephant-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1944,"h":2575},
+	"scale": "0.35",
+	"smartupdate": "$TexturePacker:SmartUpdate:92dfea8417f9d5530b21fecedc99cfd9:fa87e1c2d5dc1a883b32fb9f364ad0f5:76814b653d9300d7cd39050f04bcb604$"
+}
+}
